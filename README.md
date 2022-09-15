@@ -1,5 +1,7 @@
 # Awesome-VQGAN
-Collect papers and codes about VQGAN in various Computer Vision tasks
+Collect papers and codes about VQGAN in various Computer Vision tasks.
+
+Please star :star: this if you found this repo useful :smile:. And please tuned for more updates :).
 
 ## Table of Contents :chart_with_downwards_trend:
 - [Super Resolution](#super-resolution)
