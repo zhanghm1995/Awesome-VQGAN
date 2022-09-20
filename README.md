@@ -4,10 +4,19 @@ Collect papers and codes about VQGAN in various Computer Vision tasks.
 Please star :star: this if you found this repo useful :smile:. And please stay tuned for more updates :).
 
 ## Table of Contents :chart_with_downwards_trend:
+- [Basics](#basics)
 - [Super Resolution](#super-resolution)
 - [Image Inpainting](#image-inpainting)
 - [Image Translation](#image-translation)
 - [Multi-Modal Generation](#multi-modal-generation)
+
+## Background :book:
+
+## Basics
+- [Neural Discrete Representation Learning](https://proceedings.neurips.cc/paper/2017/hash/7a98af17e63a0ac09ce2e96d03992fbc-Abstract.html), NIPS 2021.
+- [Taming Transformers for High-Resolution Image Synthesis](http://arxiv.org/abs/2012.09841), CVPR 2021 | [Project](https://compvis.github.io/taming-transformers/) | [Code](https://github.com/CompVis/taming-transformers).
+- [MaskGIT: Masked Generative Image Transformer](https://arxiv.org/abs/2202.04200v1), CVPR 2022.
+
 
 ## Super Resolution :clown_face:
 - [Real-World Blind Super-Resolution via Feature Matching with Implicit High-Resolution Priors](http://arxiv.org/abs/2202.13142), ACMMM 2022 | [Code](https://github.com/chaofengc/FeMaSR).
