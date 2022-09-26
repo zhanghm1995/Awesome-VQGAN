@@ -31,3 +31,4 @@ Please star :star: this if you found this repo useful :smile:. And please stay t
 ## Multi-Modal Generation :ab:
 - [VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance](http://arxiv.org/abs/2204.08583), ECCV 2022 | [Code](https://github.com/EleutherAI/vqgan-clip).
 - [Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning](http://arxiv.org/abs/2203.02573), CVPR 2022 | [Code](https://github.com/snap-research/MMVID).
+- [M6-UFC: Unifying Multi-Modal Controls for Conditional Image Synthesis via Non-Autoregressive Generative Transformers](https://arxiv.org/abs/2105.14211v4), NIPS 2021.
