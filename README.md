@@ -9,6 +9,7 @@ Please star :star: this if you found this repo useful :smile:. And please stay t
 - [Image Inpainting](#image-inpainting)
 - [Image Translation](#image-translation)
 - [Multi-Modal Generation](#multi-modal-generation)
+- [Point Cloud](#point-cloud)
 
 ## Background :book:
 
@@ -32,3 +33,6 @@ Please star :star: this if you found this repo useful :smile:. And please stay t
 - [VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance](http://arxiv.org/abs/2204.08583), ECCV 2022 | [Code](https://github.com/EleutherAI/vqgan-clip).
 - [Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning](http://arxiv.org/abs/2203.02573), CVPR 2022 | [Code](https://github.com/snap-research/MMVID).
 - [M6-UFC: Unifying Multi-Modal Controls for Conditional Image Synthesis via Non-Autoregressive Generative Transformers](https://arxiv.org/abs/2105.14211v4), NIPS 2021.
+
+## Point Cloud
+- [ShapeFormer: Transformer-based Shape Completion via Sparse Representation](http://arxiv.org/abs/2201.10326), CVPR 2022 | [Project](https://shapeformer.github.io/) | [Code](https://github.com/qheldiv/shapeformer).
