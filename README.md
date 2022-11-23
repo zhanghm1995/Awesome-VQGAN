@@ -3,7 +3,7 @@ Collecting papers and code resources relating VQGAN in various Computer Vision t
 
 Please star :star: this if you found this repo useful :smile:. And please stay tuned for newer updates :).
 
-## Table of Contents :chart_with_downwards_trend:
+## :chart_with_downwards_trend: Table of Contents 
 - [Basics](#basics)
 - [Super Resolution](#super-resolution)
 - [Image Inpainting](#image-inpainting)
@@ -12,8 +12,14 @@ Please star :star: this if you found this repo useful :smile:. And please stay t
 - [Point Cloud](#point-cloud)
 
 ## :book: Background
+|Year|Title|Publisher|Project|Code
+|---|---|---|---|---|
+|2022|[MaskGIT: Masked Generative Image Transformer](https://arxiv.org/abs/2202.04200v1)|CVPR|null|null|
+|2021|[Neural Discrete Representation Learning](https://proceedings.neurips.cc/paper/2017/hash/7a98af17e63a0ac09ce2e96d03992fbc-Abstract.html)|NIPS|null|null|
+|2021|[Taming Transformers for High-Resolution Image Synthesis](http://arxiv.org/abs/2012.09841)|CVPR|[Project](https://compvis.github.io/taming-transformers/) | [Code](https://github.com/CompVis/taming-transformers)|
+<p align=right>(<a href=#Updated-on-20221121>back to top</a>)</p>
 
-## Basics
+## :building_construction: Basics
 - [Neural Discrete Representation Learning](https://proceedings.neurips.cc/paper/2017/hash/7a98af17e63a0ac09ce2e96d03992fbc-Abstract.html), NIPS 2021.
 - [Taming Transformers for High-Resolution Image Synthesis](http://arxiv.org/abs/2012.09841), CVPR 2021 | [Project](https://compvis.github.io/taming-transformers/) | [Code](https://github.com/CompVis/taming-transformers).
 - [MaskGIT: Masked Generative Image Transformer](https://arxiv.org/abs/2202.04200v1), CVPR 2022.
