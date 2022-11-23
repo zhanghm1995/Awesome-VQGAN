@@ -46,6 +46,8 @@ Please star :star: this if you found this repo useful :smile:. And please stay t
 |---|---|---|---|---|---|
 |2022|[Vector Quantized Image-to-Image Translation](http://arxiv.org/abs/2207.13286)|VQ-I2I|ECCV|[Project](https://cyj407.github.io/VQ-I2I/) | [Code](https://github.com/cyj407/VQ-I2I)|
 
+<p align=right>(<a href=#Table-of-Contents>back to top</a>)</p>
+
 
 ## :ab: Multi-Modal Generation 
 |Year|Title|Acronym|Publisher|Project|Code
@@ -54,8 +56,12 @@ Please star :star: this if you found this repo useful :smile:. And please stay t
 |2022|[Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning](http://arxiv.org/abs/2203.02573)|VQGAN-CLIP|CVPR|null | [Code](https://github.com/snap-research/MMVID)|
 |2021|[M6-UFC: Unifying Multi-Modal Controls for Conditional Image Synthesis via Non-Autoregressive Generative Transformers](https://arxiv.org/abs/2105.14211v4)|M6-UFC|NIPS|null | [Code](https://github.com/snap-research/MMVID)|
 
+<p align=right>(<a href=#Table-of-Contents>back to top</a>)</p>
+
 
 ## :eight_pointed_black_star: Point Cloud 
 |Year|Title|Acronym|Publisher|Project|Code
 |---|---|---|---|---|---|
 |2022|[ShapeFormer: Transformer-based Shape Completion via Sparse Representation](http://arxiv.org/abs/2201.10326)|ShapeFormer|NIPS|[Project](https://shapeformer.github.io/) | [Code](https://github.com/qheldiv/shapeformer)|
+
+<p align=right>(<a href=#Table-of-Contents>back to top</a>)</p>
