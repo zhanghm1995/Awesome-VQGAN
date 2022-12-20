@@ -11,7 +11,7 @@ Please star :star: this if you found this repo useful :smile:. And please stay t
 - [Multi-Modal Generation](#multi-modal-generation)
 - [Point Cloud](#point-cloud)
 
-## :book: Background
+## Background :book:
 
 ## :building_construction: Basics
 |Year|Title|Acronym|Publisher|Project|Code
@@ -23,7 +23,7 @@ Please star :star: this if you found this repo useful :smile:. And please stay t
 <p align=right>(<a href=#Table-of-Contents>back to top</a>)</p>
 
 
-## :clown_face: Super Resolution
+## Super Resolution :clown_face: 
 |Year|Title|Acronym|Publisher|Project|Code
 |---|---|---|---|---|---|
 |2022|[Real-World Blind Super-Resolution via Feature Matching with Implicit High-Resolution Priors](http://arxiv.org/abs/2202.13142)|null|ACMMM|null|[Code](https://github.com/chaofengc/FeMaSR)|
@@ -33,7 +33,7 @@ Please star :star: this if you found this repo useful :smile:. And please stay t
 <p align=right>(<a href=#Table-of-Contents>back to top</a>)</p>
 
 
-## :smirk: Image Inpainting 
+## Image Inpainting :smirk: 
 |Year|Title|Acronym|Publisher|Project|Code
 |---|---|---|---|---|---|
 |2022|[High-Quality Pluralistic Image Completion via Code Shared VQGAN](http://arxiv.org/abs/2204.01931)|null|Arxiv|null|null|
@@ -41,7 +41,7 @@ Please star :star: this if you found this repo useful :smile:. And please stay t
 <p align=right>(<a href=#Table-of-Contents>back to top</a>)</p>
 
 
-## :twisted_rightwards_arrows: Image Translation 
+## Image Translation :twisted_rightwards_arrows: 
 |Year|Title|Acronym|Publisher|Project|Code
 |---|---|---|---|---|---|
 |2022|[Vector Quantized Image-to-Image Translation](http://arxiv.org/abs/2207.13286)|VQ-I2I|ECCV|[Project](https://cyj407.github.io/VQ-I2I/) | [Code](https://github.com/cyj407/VQ-I2I)|
@@ -49,7 +49,7 @@ Please star :star: this if you found this repo useful :smile:. And please stay t
 <p align=right>(<a href=#Table-of-Contents>back to top</a>)</p>
 
 
-## :ab: Multi-Modal Generation 
+## Multi-Modal Generation :ab: 
 |Year|Title|Acronym|Publisher|Project|Code
 |---|---|---|---|---|---|
 |2022|[VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance](http://arxiv.org/abs/2204.08583)|VQGAN-CLIP|ECCV|null | [Code](https://github.com/EleutherAI/vqgan-clip)|
@@ -59,7 +59,7 @@ Please star :star: this if you found this repo useful :smile:. And please stay t
 <p align=right>(<a href=#Table-of-Contents>back to top</a>)</p>
 
 
-## :eight_pointed_black_star: Point Cloud 
+## Point Cloud :eight_pointed_black_star: 
 |Year|Title|Acronym|Publisher|Project|Code
 |---|---|---|---|---|---|
 |2022|[ShapeFormer: Transformer-based Shape Completion via Sparse Representation](http://arxiv.org/abs/2201.10326)|ShapeFormer|NIPS|[Project](https://shapeformer.github.io/) | [Code](https://github.com/qheldiv/shapeformer)|
